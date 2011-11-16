@@ -1,0 +1,85 @@
+.gs-title {
+font-weight:bold;
+color:red;
+text-decoration:none;
+}
+
+a.gs-title:link {
+text-decoration:none;
+font-weight:bold;
+color:#000;
+}
+
+.gsc-control-cse .gs-result .gs-title,.gsc-control-cse .gs-result .gs-title * {
+text-decoration:none;
+padding-top:.3em;
+padding-bototm:.3em;
+font-size:18px;
+}
+
+.gsc-cursor-box {
+margin-top:12px;
+font-weight:bold;
+font-size:1.2em;
+padding-top:.3em;
+}
+
+a.gs-title:hover {
+border-bottom:solid 1px #000;
+}
+
+.gs-result .gs-snippet {
+color:#333;
+padding-bottom:3px;
+}
+
+b {
+background-color:#fff;
+color:#333;
+}
+
+.gs-result a.gs-visibleUrl,.gs-result .gs-visibleUrl {
+color:#999999 !important;
+font-size:12px;
+padding-top:.3em;
+}
+
+.gs-result .gs-title,.gs-result .gs-title * {
+color:#333;
+}
+
+.gsc-webResult .gsc-result {
+border-bottom:dotted 1px #f3f3f3;
+}
+
+#adBlock {
+background-color:#FCFCE1 !important;
+font-size:12px;
+}
+
+#gse-input-bora {
+border-radius:18px 18px 18px 18px;
+border:1px solid #D2D2D2;
+padding:6px;
+float:none;
+clear:both;
+}
+
+input.search_box {
+background:url("http://cleartrip.com/images/elements/icon_search.gif") no-repeat scroll 5px center #FFFFFF;
+border:1px solid #D2D2D2;
+border-radius:12px 12px 12px 12px;
+font-family:'arial';
+font-size:1.3em;
+height:18px;
+line-height:18px;
+padding:2px 5px 2px 23px;
+margin-bottom:2em;
+width: 80%;
+}
+
+#content tr td,#content table,#results table td {
+border:solid 0 #fff;
+}
+#content tr td{ padding:0}
+div.content-area{float:left; width:70%;}
